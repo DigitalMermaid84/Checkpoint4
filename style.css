@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+  padding: 0;}
+
+
+header{
+    background-color: white;
+}
+
+header h5{
+    font-weight: 900;
+    font-size: 30px;
+    font-style: normal;
+    margin-left: 500px;
+}
+
+.navbar .nav-link{
+    align-items: center;
+    color: black;
+    font-size: medium
+}
+
+.navbar .nav-link:hover{
+color: red
+}
+
+
+.product .container h2{
+font-size: 60px;
+padding-top: 80px;
+font-weight: 900;
+}
